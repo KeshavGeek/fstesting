@@ -55,7 +55,7 @@
     "aes-js": "3.0.2",
     "pbkdf2": "3.0.2",
     "leaflet": "1.3.0",
-    "leaflet-zoombox": "0.3.2",
+    
     "jquery": "3.5.1",
     "preloadjs": "0.6.2",
     "es6-promise": "4.2.8",
@@ -84,8 +84,9 @@
     "ngletteravatar": "4.0.4",
     "xlsx": "0.11.5",
     "angular-google-maps": "2.4.1",
-    "leaflet-freedraw": "2.13.0",
+    
     "leaflet-draw": "1.0.4",
-    "osmbuildings": "0.2.0-b"
+    "osmbuildings": "0.2.0-b",
+    "ckeditor4": "4.12.1"
   }
 }
