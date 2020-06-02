@@ -87,6 +87,7 @@
     "osmbuildings": "0.2.0-b",
     "ckeditor4": "4.12.1",
     "squel": "5.13.0",
-    "angular-busy": "4.1.4"
+    "angular-busy": "4.1.4",
+    "angular-ckeditor-legacy": "1.0.3"
   }
 }
