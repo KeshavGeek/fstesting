@@ -85,6 +85,7 @@
     "leaflet-freedraw": "2.13.0",
     "leaflet-draw": "1.0.4",
     "osmbuildings": "0.2.0-b",
-    "ckeditor4": "4.12.1"
+    "ckeditor4": "4.12.1",
+    "squel": "5.13.0"
   }
 }
