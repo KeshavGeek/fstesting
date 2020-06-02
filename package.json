@@ -112,6 +112,15 @@
     "jquery-contextmenu": "2.9.2",
     "timeago": "1.6.7",
     "underscore": "1.10.2",
-    "lodash": "4.17.15"
+    "lodash": "4.17.15",
+    "ion-rangeslider": "2.3.1",
+    "smdatetimerangepicker": "2.0.10",
+    "spectrum-colorpicker": "1.8.1",
+    "angular-spectrum-colorpicker": "1.4.5",
+    "perfect-scrollbar": "1.5.0",
+    "angular-perfect-scrollbar": "0.2.0",
+    "angular-slick-carousel": "3.1.7",
+    "ddslick": "1.0.3",
+    "ion-range-slider-angularjs": "https://github.com/geoffreybauduin/ion-range-slider-angularjs.git"
   }
 }
