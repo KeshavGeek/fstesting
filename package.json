@@ -121,6 +121,9 @@
     "angular-perfect-scrollbar": "0.2.0",
     "angular-slick-carousel": "3.1.7",
     "ddslick": "1.0.3",
-    "ion-range-slider-angularjs": "https://github.com/geoffreybauduin/ion-range-slider-angularjs.git"
+    "ion-range-slider-angularjs": "https://github.com/geoffreybauduin/ion-range-slider-angularjs.git",
+    "leaflet.photomarker": "https://github.com/bshelton229/Leaflet.photomarker.git",
+    "angular-ui-calendar": "1.0.2"
+    "fullcalendar": "3.10.2"
   }
 }
