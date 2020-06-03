@@ -58,6 +58,7 @@
     "d3-tip": "^0.9.1",
     "daterangepicker": "3.1.0",
     "ddslick": "1.0.3",
+    "dhtmlx-gantt": "^7.0.3",
     "diff-match-patch": "1.0.5",
     "easeljs": "0.8.2",
     "echarts": "^4.7.0",
@@ -72,6 +73,7 @@
     "ion-rangeslider": "2.3.1",
     "jquery": "3.5.1",
     "jquery-contextmenu": "2.9.2",
+    "jquery-linedtextarea": "https://github.com/cotenoni/jquery-linedtextarea.git",
     "jquery-migrate": "^1.2.1",
     "jquery-sparkline": "2.4.0",
     "jquery-textcomplete": "^1.8.5",
@@ -124,7 +126,6 @@
     "underscore": "1.10.2",
     "v-accordion": "1.6.0",
     "vis": "^4.21.0-EOL",
-    "xlsx": "0.11.5",
-    "jquery-linedtextarea": "https://github.com/cotenoni/jquery-linedtextarea.git"
+    "xlsx": "0.11.5"
   }
 }
