@@ -48,7 +48,7 @@
 		"vis": "^4.21.0-EOL",
 		"easeljs": "0.8.2",
 		"tweenjs": "0.6.2",
-		"turf": "7.0.0-alpha.1",
+		"turf": "^7.0.0-alpha.1",
 		"ng-draggable": "1.0.0",
 		"aes-js": "3.0.2",
 		"pbkdf2": "3.0.2",
