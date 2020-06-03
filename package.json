@@ -125,7 +125,6 @@
     "v-accordion": "1.6.0",
     "vis": "^4.21.0-EOL",
     "xlsx": "0.11.5",
-    "jquery-linedtextarea": "https://github.com/cotenoni/jquery-linedtextarea.git",
-    "jquery-numberedtextarea": "https://github.com/Dorious/jquery-numberedtextarea.git"
+    "jquery-linedtextarea": "https://github.com/cotenoni/jquery-linedtextarea.git"
   }
 }
