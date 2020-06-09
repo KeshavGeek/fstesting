@@ -122,6 +122,7 @@
     "squel": "5.13.0",
     "tether": "^1.4.0",
     "timeago": "1.6.7",
+    "tinymce": "^5.3.1",
     "toastr": "2.1.4",
     "tweenjs": "0.6.2",
     "ui-leaflet": "1.0.3",
