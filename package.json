@@ -110,7 +110,7 @@
     "oclazyload": "1.1.0",
     "offline-js": "^0.7.19",
     "osmbuildings": "0.2.0-b",
-    "papaparse": "^4.6.0",
+    "papaparse": "^5.3.0",
     "pbkdf2": "3.0.2",
     "pdfmake": "0.1.65",
     "perfect-scrollbar": "1.5.0",
